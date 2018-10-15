@@ -21,7 +21,7 @@ public class HolaMundo {
         
         //1. Empiezo a implementar la funcionalidad
         
-        // 2. seguimos implementando y terminamos
+        //2. seguimos implementando y terminamos
     }
     
 }
