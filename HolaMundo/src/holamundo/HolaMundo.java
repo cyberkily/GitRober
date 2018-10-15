@@ -16,7 +16,7 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola mundo USER 1 !!");
+        System.out.println("Hola mundo USER 2!!");
         System.out.println("Adios mundo!!");
         
         //1. Empiezo a implementar la funcionalidad
