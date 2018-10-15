@@ -19,7 +19,9 @@ public class HolaMundo {
         System.out.println("Hola mundo USER 1 !!");
         System.out.println("Adios mundo!!");
         
-        // Empiezo a implementar la funcionalidad
+        //1. Empiezo a implementar la funcionalidad
+        
+        // 2. seguimos implementando y terminamos
     }
     
 }
